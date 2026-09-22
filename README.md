@@ -2,7 +2,7 @@
 
 Final-year Bachelor of Science student at the University of Auckland, majoring in Computer Science and Information Systems.
 
-GitHub: [://github.com](https://://github.com) | Email: samuelzhou1999@gmail.com | Phone: +64 21 2055996
+GitHub: https://github.com/Zhleumas | Email: samuelzhou1999@gmail.com | Phone: +64 21 2055996
 
 ---
 
